@@ -7,7 +7,7 @@ This repository contains **defect reports** for small-scale web projects, includ
 - 🅿️ **Parking Calculator**  
 
 Each report includes **steps to reproduce, screenshots, and expected vs. actual results**, following professional QA documentation standards.
-
+ 
 ---
 
 ### 🧾 Project Screenshots
